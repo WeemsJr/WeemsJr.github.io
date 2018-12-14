@@ -10,9 +10,10 @@
     position: absolute;
     top: 50;
     right: 100px;
-    border: solid red 4px;
+    border: solid white 4px;
     text-align: center;
-
+    left: 90px;
+    color: white;
 }
 .innerhero li{
     display: inline;
@@ -26,7 +27,7 @@
 
 
 .innerhero container{
-    margin: 10px;
+    margin: 15px;
 }
 
 
@@ -88,6 +89,7 @@
 }
 .contacts ul{
     list-style: none;
+      
 }
 
 
@@ -120,4 +122,9 @@
     background: #007bb5;
     color: white;
 }
+
+.projectbackground row{
+    background: white;
+}
+
 
