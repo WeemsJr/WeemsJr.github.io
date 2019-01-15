@@ -1,6 +1,6 @@
 .hero img{
     position: relative;
-    max-height: 800px;
+    max-height: 1000px;
     text-align: middle;
     overflow: hidden;
 
@@ -30,6 +30,10 @@
     margin: 15px;
 }
 
+.projectbackground h1{
+    text-align: center;
+    color: #464866;
+}
 
 
 
@@ -64,6 +68,8 @@
 
 
 }
+
+
 
 
 .fa {
@@ -131,3 +137,6 @@
 }
 
 
+.javascript{
+    margin-top: 90px;
+}
